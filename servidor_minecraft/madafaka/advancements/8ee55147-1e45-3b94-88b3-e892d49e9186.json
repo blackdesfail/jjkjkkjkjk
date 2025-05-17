@@ -1759,6 +1759,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "melon": "2025-05-17 21:51:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-17 19:48:53 +0000"
@@ -1864,6 +1870,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-05-17 21:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-17 21:52:16 +0000"
     },
     "done": true
   },
@@ -2086,6 +2098,12 @@
   "graveyard:graveyard/middle_bone_staff": {
     "criteria": {
       "middle_bone_staff": "2025-05-17 19:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-05-17 21:51:25 +0000"
     },
     "done": true
   },

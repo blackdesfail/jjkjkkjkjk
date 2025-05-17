@@ -1747,6 +1747,12 @@
     },
     "done": true
   },
+  "slugterra:grandmaster_biome_advancement": {
+    "criteria": {
+      "grandmaster_biome_advancement_0": "2025-05-17 21:55:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-17 20:52:59 +0000"
@@ -1858,6 +1864,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-17 21:36:20 +0000"
+    },
+    "done": true
+  },
+  "slugterra:spectro_biome_advancement": {
+    "criteria": {
+      "spectro_biome_advancement_0": "2025-05-17 21:55:55 +0000"
     },
     "done": true
   },
