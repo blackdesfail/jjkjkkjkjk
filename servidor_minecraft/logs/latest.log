@@ -4183,3 +4183,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 02:18:48.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Sweet Dreams]
 [17May2025 02:22:01.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Stone Age]
 [17May2025 02:25:27.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [A Seedy Place]
+[17May2025 02:34:43.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made KairosArch a server operator
+[17May2025 02:34:48.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server perdon
+[17May2025 02:42:33.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Mine? Mine? Mine?]
