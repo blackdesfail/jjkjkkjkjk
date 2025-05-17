@@ -82,10 +82,12 @@
     "criteria": {
       "shrubland": "2025-05-17 18:44:39 +0000",
       "rocky_shrubland": "2025-05-17 19:23:11 +0000",
+      "clover_patch": "2025-05-17 19:49:38 +0000",
       "orchard": "2025-05-17 19:07:41 +0000",
       "lavender_forest": "2025-05-17 18:34:34 +0000",
       "redwood_forest": "2025-05-17 19:07:15 +0000",
-      "lavender_field": "2025-05-17 18:39:44 +0000"
+      "lavender_field": "2025-05-17 18:39:44 +0000",
+      "grassland": "2025-05-17 19:48:26 +0000"
     },
     "done": false
   },
@@ -283,8 +285,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-17 19:48:27 +0000",
+      "minecraft:bamboo_jungle": "2025-05-17 19:50:48 +0000",
+      "minecraft:dark_forest": "2025-05-17 19:49:26 +0000",
       "minecraft:river": "2025-05-17 18:39:42 +0000",
-      "minecraft:forest": "2025-05-17 19:08:21 +0000"
+      "minecraft:forest": "2025-05-17 19:08:21 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-17 19:54:32 +0000"
     },
     "done": false
   },
@@ -624,6 +630,7 @@
     "criteria": {
       "bread": "2025-05-17 18:49:30 +0000",
       "rotten_flesh": "2025-05-17 18:43:10 +0000",
+      "melon_slice": "2025-05-17 19:55:19 +0000",
       "golden_carrot": "2025-05-17 18:46:12 +0000"
     },
     "done": false
@@ -1378,15 +1385,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-17 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-17 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-17 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-17 19:51:18 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-05-17 19:21:33 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_flower": "2025-05-17 19:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-17 19:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-17 19:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-17 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 19:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-17 19:48:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 19:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-17 19:55:17 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/middle_bone_staff": {
     "criteria": {
       "middle_bone_staff": "2025-05-17 19:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-17 19:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-17 19:50:16 +0000"
     },
     "done": true
   },
