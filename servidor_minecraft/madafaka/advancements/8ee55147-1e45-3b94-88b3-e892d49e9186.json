@@ -294,6 +294,7 @@
       "minecraft:dark_forest": "2025-05-17 19:49:26 +0000",
       "minecraft:river": "2025-05-17 18:39:42 +0000",
       "minecraft:forest": "2025-05-17 19:08:21 +0000",
+      "minecraft:ocean": "2025-05-17 21:16:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-17 19:54:32 +0000",
       "minecraft:plains": "2025-05-17 21:03:44 +0000"
     },
@@ -637,6 +638,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-17 20:38:50 +0000",
       "cooked_beef": "2025-05-17 20:30:46 +0000",
+      "beef": "2025-05-17 21:18:42 +0000",
       "porkchop": "2025-05-17 21:09:21 +0000",
       "potato": "2025-05-17 20:37:18 +0000",
       "bread": "2025-05-17 18:49:30 +0000",
@@ -1403,6 +1405,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-17 21:15:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-05-17 19:55:17 +0000"
@@ -1412,6 +1420,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-05-17 20:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-17 21:15:31 +0000"
     },
     "done": true
   },
@@ -1451,6 +1465,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-05-17 21:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-17 20:25:42 +0000"
@@ -1472,6 +1492,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-17 20:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-17 21:24:57 +0000"
     },
     "done": true
   },
@@ -1547,6 +1573,12 @@
     },
     "done": true
   },
+  "slugterra:the_slugterra_advancement": {
+    "criteria": {
+      "the_slugterra_advancement_0": "2025-05-17 21:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-17 21:14:41 +0000"
@@ -1562,6 +1594,18 @@
   "hangglider:recipes/tools/hang_glider": {
     "criteria": {
       "has_glider_framework": "2025-05-17 20:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-17 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-17 21:15:31 +0000"
     },
     "done": true
   },
@@ -1604,6 +1648,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-05-17 20:50:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-05-17 21:22:47 +0000"
     },
     "done": true
   },
@@ -1697,6 +1747,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 21:15:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-17 20:12:55 +0000"
@@ -1766,6 +1822,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-05-17 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-05-17 21:22:47 +0000"
     },
     "done": true
   },
@@ -1907,9 +1969,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-05-17 21:22:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-17 20:38:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 21:22:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-05-17 21:22:47 +0000"
     },
     "done": true
   },
@@ -1928,6 +2008,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-17 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-17 21:24:57 +0000"
     },
     "done": true
   },
@@ -1985,6 +2071,12 @@
     },
     "done": true
   },
+  "slugterra:arachna_biome_advancement": {
+    "criteria": {
+      "arachna_biome_advancement_0": "2025-05-17 21:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-05-17 20:35:45 +0000"
@@ -2036,6 +2128,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-05-17 20:50:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-17 21:15:31 +0000"
     },
     "done": true
   },
