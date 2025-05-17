@@ -16710,3 +16710,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17May2025 19:24:11.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Amateur Archaeologist]
 [17May2025 19:25:36.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Gravedigger]
 [17May2025 19:25:44.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Well prepared]
+[17May2025 19:29:05.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Iron Golem
+[17May2025 19:29:45.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[17May2025 19:31:28.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
+[17May2025 19:32:57.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[17May2025 19:32:57.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[17May2025 19:32:59.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> -740/65/-86
+[17May2025 19:33:07.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.88.128.135:35997] logged in with entity id 21754 at (9.185414041731871, 63.0, 1.968228902243322)
+[17May2025 19:33:07.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[17May2025 19:33:07.243] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[17May2025 19:34:55.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Getting an Upgrade]
+[17May2025 19:35:18.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Not Today, Thank You]
+[17May2025 19:35:36.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was shot by Skeleton
+[17May2025 19:36:18.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to -707.500000, 29.000000, -64.500000]
+[17May2025 19:36:25.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was shot by Skeleton
