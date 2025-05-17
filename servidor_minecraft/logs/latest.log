@@ -19738,3 +19738,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17May2025 20:47:09.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Set own game mode to Survival Mode]
 [17May2025 20:47:32.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was blown up by ander31
 [17May2025 20:48:53.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was blown up by ander31
+[17May2025 20:49:08.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[17May2025 20:49:08.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[17May2025 20:50:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was blown up by KairosArch
+[17May2025 20:50:01.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was blown up by ander31
+[17May2025 20:50:43.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
+[17May2025 20:50:43.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game
+[17May2025 20:50:52.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ander31[/127.205.183.188:43705] logged in with entity id 89684 at (-408.9989087466617, 65.0, 24.027236160156466)
+[17May2025 20:50:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 joined the game
+[17May2025 20:50:52.682] [Server thread/INFO] [Jade/]: Syncing config to ander31 (b1453593-5f83-3666-8d38-4070cb18656a)
+[17May2025 20:52:02.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> the carriage
+[17May2025 20:52:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Isn't It Iron Pick]
+[17May2025 20:53:20.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Take Aim]
+[17May2025 20:55:59.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Gravedigger]
+[17May2025 20:58:16.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Corpse Fish
+[17May2025 20:59:22.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server a
+[17May2025 21:00:55.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 drowned
+[17May2025 21:01:18.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was blown up by Creeper
+[17May2025 21:02:55.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Hunt and Gather]
+[17May2025 21:02:59.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77700, l='ServerLevel[madafaka]', x=-403.74, y=66.00, z=9.49] died, message: 'Unemployed was slain by Zombie'
+[17May2025 21:04:50.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [The Wind Darkening]
+[17May2025 21:06:08.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by Skeleton
+[17May2025 21:06:27.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Corpse Fly
+[17May2025 21:07:04.021] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77705, l='ServerLevel[madafaka]', x=-420.70, y=63.45, z=11.30] died, message: 'Unemployed was slain by Decaying Zombie'
+[17May2025 21:08:14.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Dread Hound
+[17May2025 21:13:05.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Crops of the Wild]
+[17May2025 21:16:07.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [You Are A Pirate]
+[17May2025 21:16:34.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was killed by Pillager using magic
