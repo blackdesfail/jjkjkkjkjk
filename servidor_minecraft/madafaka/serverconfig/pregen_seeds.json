@@ -1,0 +1,54 @@
+{
+	"level_seeds": [
+		{
+			"dim": "slugterra:the_slugterra",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "graveyard:past",
+			"seed": -7119502630915780097
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "slugterra:the_slugterra",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -7119502630915780097
+		},
+		{
+			"dim": "graveyard:past",
+			"seed": -7119502630915780097
+		}
+	]
+}
