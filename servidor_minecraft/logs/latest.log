@@ -4186,3 +4186,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 02:34:43.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made KairosArch a server operator
 [17May2025 02:34:48.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server perdon
 [17May2025 02:42:33.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Mine? Mine? Mine?]
+[17May2025 02:59:35.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[17May2025 02:59:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
