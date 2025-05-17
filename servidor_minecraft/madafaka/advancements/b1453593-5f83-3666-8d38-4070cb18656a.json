@@ -1639,6 +1639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-17 21:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-05-17 20:52:59 +0000"
@@ -1720,6 +1726,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_orange_dye": "2025-05-17 21:14:58 +0000"
+    },
+    "done": true
+  },
+  "slugterra:cavern_biome_advancement": {
+    "criteria": {
+      "cavern_biome_advancement_0": "2025-05-17 21:33:13 +0000"
     },
     "done": true
   },
@@ -1873,6 +1885,12 @@
     },
     "done": true
   },
+  "slugterra:brightworm_biome_advancement": {
+    "criteria": {
+      "brightworm_biome_advancement_0": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-17 20:52:59 +0000"
@@ -1918,6 +1936,12 @@
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-05-17 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-17 21:33:25 +0000"
     },
     "done": true
   },
