@@ -8480,3 +8480,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 04:28:51.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
 [17May2025 04:33:51.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
 [17May2025 04:33:51.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[17May2025 04:38:51.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[17May2025 04:38:51.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[17May2025 04:43:51.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[17May2025 04:43:51.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
