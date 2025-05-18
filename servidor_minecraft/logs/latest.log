@@ -4299,3 +4299,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18May2025 22:36:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
 [18May2025 22:36:16.168] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
 [18May2025 22:36:32.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
+[18May2025 22:39:13.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
+[18May2025 22:39:24.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
+[18May2025 22:45:32.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [The Parrots and the Bats]
+[18May2025 22:45:33.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [What a Deal!]
+[18May2025 22:52:32.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[18May2025 22:52:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[18May2025 22:52:43.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[18May2025 22:52:43.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[18May2025 22:53:26.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.129.104.236:35749] logged in with entity id 49443 at (-262.45476740828326, 71.0, 183.70571093715853)
+[18May2025 22:53:26.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[18May2025 22:53:26.993] [Server thread/INFO] [Jade/]: Syncing config to Aqui_Si_Ban (9014711c-b62d-33b8-a7e3-8c6952668adf)
+[18May2025 22:53:42.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:57693] logged in with entity id 49795 at (-270.3645028260683, 71.24918707874468, 135.66684051255294)
+[18May2025 22:53:42.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[18May2025 22:53:42.490] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
