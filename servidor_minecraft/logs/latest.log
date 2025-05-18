@@ -4233,3 +4233,69 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18May2025 21:53:02.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> para nada
 [18May2025 21:53:36.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> IJO SU PUTA MADRE LO VI
 [18May2025 21:53:50.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> VI A EL}
+[18May2025 21:59:19.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> -350 98 940
+[18May2025 22:03:36.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was doomed to fall by Skeleton
+[18May2025 22:04:08.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=67, z=-15}
+[18May2025 22:04:36.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=69, z=-15}
+[18May2025 22:04:36.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=68, z=-15}
+[18May2025 22:04:38.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=68, z=-16}
+[18May2025 22:04:38.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=23, y=69, z=-17}
+[18May2025 22:04:38.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=69, z=-17}
+[18May2025 22:04:39.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=68, z=-16}
+[18May2025 22:04:39.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=68, z=-16}
+[18May2025 22:05:17.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=68, z=-15}
+[18May2025 22:05:43.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=68, z=-16}
+[18May2025 22:05:47.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=68, z=-16}
+[18May2025 22:05:48.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=68, z=-15}
+[18May2025 22:05:53.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=68, z=-16}
+[18May2025 22:05:53.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=69, z=-16}
+[18May2025 22:05:54.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=67, z=-16}
+[18May2025 22:05:54.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=68, z=-16}
+[18May2025 22:05:54.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=66, z=-15}
+[18May2025 22:05:54.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=66, z=-15}
+[18May2025 22:05:55.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=66, z=-15}
+[18May2025 22:06:27.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=69, z=-16}
+[18May2025 22:06:42.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=68, z=-14}
+[18May2025 22:06:42.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=69, z=-13}
+[18May2025 22:06:42.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=68, z=-12}
+[18May2025 22:06:50.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Siamese Skeleton
+[18May2025 22:07:21.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=68, z=-16}
+[18May2025 22:07:26.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=23, y=68, z=-15}
+[18May2025 22:07:37.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Aqui_Si_Ban
+[18May2025 22:09:32.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Komodo Dragon
+[18May2025 22:11:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Skeleton
+[18May2025 22:13:05.950] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[18May2025 22:13:05.951] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[18May2025 22:13:05.951] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[18May2025 22:15:28.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Siamese Skeleton
+[18May2025 22:15:55.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[18May2025 22:15:55.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[18May2025 22:15:55.908] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 22:16:37.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:56611] logged in with entity id 32910 at (-262.51030202775894, 73.0, 197.69999998807907)
+[18May2025 22:16:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[18May2025 22:16:37.110] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[18May2025 22:16:42.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Dark Vortex
+[18May2025 22:17:13.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Dark Vortex
+[18May2025 22:17:18.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-265, y=73, z=196}
+[18May2025 22:17:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was blown up by Creeper
+[18May2025 22:17:37.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[18May2025 22:17:37.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[18May2025 22:18:01.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:35229] logged in with entity id 34634 at (-284.7592924454992, 72.0, 204.7507425538974)
+[18May2025 22:18:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[18May2025 22:18:01.778] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[18May2025 22:19:15.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> 260 210
+[18May2025 22:19:36.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> -350 98 940
+[18May2025 22:20:32.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Dark Metallurgy]
+[18May2025 22:24:16.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! 5.717177323046258,0.9893499858739716,-8.506481966451702
+[18May2025 22:28:55.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Sweet Dreams]
+[18May2025 22:28:58.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Sweet Dreams]
+[18May2025 22:32:55.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Acquire Hardware]
+[18May2025 22:34:15.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
+[18May2025 22:35:16.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
+[18May2025 22:35:31.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
+[18May2025 22:35:48.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[18May2025 22:35:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[18May2025 22:36:16.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:33397] logged in with entity id 43862 at (-286.8303864708736, 71.0, 160.9001858655873)
+[18May2025 22:36:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[18May2025 22:36:16.168] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[18May2025 22:36:32.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
