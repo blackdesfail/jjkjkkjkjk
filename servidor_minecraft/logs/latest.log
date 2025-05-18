@@ -4209,3 +4209,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18May2025 21:32:20.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Decrepit Skeleton
 [18May2025 21:33:19.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Zombie
 [18May2025 21:34:52.270] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-288, y=-47, z=-321}
+[18May2025 21:38:35.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> COMO VAS?
+[18May2025 21:41:26.633] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[18May2025 21:43:41.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server g
+[18May2025 21:43:47.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> ??
+[18May2025 21:43:54.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> ???
+[18May2025 21:46:19.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[18May2025 21:46:19.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[18May2025 21:47:22.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.129.104.236:49611] logged in with entity id 18309 at (-269.594596774846, 74.0, 906.8661199428083)
+[18May2025 21:47:22.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[18May2025 21:47:22.454] [Server thread/INFO] [Jade/]: Syncing config to Aqui_Si_Ban (9014711c-b62d-33b8-a7e3-8c6952668adf)
+[18May2025 21:47:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> donde estas?
+[18May2025 21:48:18.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> EN LA CASA DE CROSTI EL PAYASO
+[18May2025 21:48:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> ???????????????????
+[18May2025 21:48:53.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> -800 454
+[18May2025 21:49:43.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> llegue a Peru
+[18May2025 21:49:49.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> JAJAJAJJA
+[18May2025 21:50:56.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> encontre arboles encantados
+[18May2025 21:51:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> foto foto
+[18May2025 21:51:16.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> un creeper mamadisimo
+[18May2025 21:52:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> oye
+[18May2025 21:52:45.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> es normal que las estrellas parescan ojos?
+[18May2025 21:53:02.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> para nada
+[18May2025 21:53:36.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> IJO SU PUTA MADRE LO VI
+[18May2025 21:53:50.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> VI A EL}
