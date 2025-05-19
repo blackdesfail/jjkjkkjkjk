@@ -91,6 +91,7 @@
       "minecraft:cold_ocean": "2025-05-19 13:58:40 +0000",
       "minecraft:forest": "2025-05-18 21:21:19 +0000",
       "minecraft:deep_cold_ocean": "2025-05-19 13:59:46 +0000",
+      "minecraft:desert": "2025-05-19 15:12:09 +0000",
       "minecraft:jungle": "2025-05-18 19:50:45 +0000",
       "minecraft:ocean": "2025-05-19 14:13:22 +0000",
       "minecraft:warm_ocean": "2025-05-19 15:11:14 +0000",
@@ -111,6 +112,7 @@
       "maple_woods": "2025-05-19 13:57:32 +0000",
       "lavender_forest": "2025-05-19 14:19:04 +0000",
       "mediterranean_forest": "2025-05-19 13:43:59 +0000",
+      "wasteland": "2025-05-19 15:12:22 +0000",
       "redwood_forest": "2025-05-19 13:52:42 +0000",
       "dune_beach": "2025-05-19 14:17:38 +0000",
       "volcano": "2025-05-18 20:06:39 +0000",
@@ -673,7 +675,8 @@
     "criteria": {
       "cooked_mutton": "2025-05-19 13:57:22 +0000",
       "bread": "2025-05-18 22:47:30 +0000",
-      "melon_slice": "2025-05-18 20:14:45 +0000"
+      "melon_slice": "2025-05-18 20:14:45 +0000",
+      "golden_carrot": "2025-05-19 15:31:18 +0000"
     },
     "done": false
   },
@@ -2571,6 +2574,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-19 15:29:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-05-19 15:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-19 14:58:58 +0000"
@@ -2601,6 +2616,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-05-19 15:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 15:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-19 14:30:13 +0000"
@@ -2610,6 +2637,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-19 14:20:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-05-19 15:25:41 +0000"
     },
     "done": true
   },
@@ -2649,9 +2682,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 15:25:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-19 14:20:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-19 15:25:41 +0000"
     },
     "done": true
   },
@@ -2703,15 +2748,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 15:29:39 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/fish_bones": {
     "criteria": {
       "sopa_de_macaco": "2025-05-19 14:32:01 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-19 15:29:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-05-19 15:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-19 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-19 15:25:41 +0000"
     },
     "done": true
   },
@@ -2727,9 +2796,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 15:12:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-19 15:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-19 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 15:12:36 +0000"
     },
     "done": true
   },
@@ -2745,9 +2832,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-19 15:25:41 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2025-05-19 14:31:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-19 15:25:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 15:25:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-05-19 15:25:41 +0000"
     },
     "done": true
   },
@@ -2766,6 +2877,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-19 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-19 15:29:16 +0000"
     },
     "done": true
   },
