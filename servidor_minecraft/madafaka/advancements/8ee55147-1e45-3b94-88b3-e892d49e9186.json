@@ -2425,6 +2425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-19 01:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-19 01:30:54 +0000"
@@ -2464,6 +2470,12 @@
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-05-19 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-19 01:38:59 +0000"
     },
     "done": true
   },
@@ -2576,6 +2588,12 @@
     },
     "done": true
   },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-05-19 01:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-05-19 01:13:25 +0000"
@@ -2681,6 +2699,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-19 01:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-19 01:38:04 +0000"
     },
     "done": true
   },
@@ -2807,6 +2831,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-19 01:40:51 +0000"
     },
     "done": true
   },
