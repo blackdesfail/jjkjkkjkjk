@@ -3117,6 +3117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-19 16:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-05-19 11:53:49 +0000"
@@ -3132,6 +3138,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-19 12:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-19 16:08:31 +0000"
     },
     "done": true
   },

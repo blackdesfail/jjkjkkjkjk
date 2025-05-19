@@ -82,8 +82,10 @@
     "criteria": {
       "minecraft:taiga": "2025-05-19 14:12:42 +0000",
       "minecraft:deep_ocean": "2025-05-19 15:07:44 +0000",
+      "minecraft:birch_forest": "2025-05-19 15:45:08 +0000",
       "minecraft:bamboo_jungle": "2025-05-18 19:55:54 +0000",
       "minecraft:beach": "2025-05-18 20:32:25 +0000",
+      "minecraft:dark_forest": "2025-05-19 15:47:06 +0000",
       "minecraft:sparse_jungle": "2025-05-18 20:28:33 +0000",
       "minecraft:river": "2025-05-18 19:55:49 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 20:36:54 +0000",
@@ -104,6 +106,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-05-18 21:21:32 +0000",
+      "shrubland": "2025-05-19 15:48:10 +0000",
       "rocky_shrubland": "2025-05-18 22:01:22 +0000",
       "highland": "2025-05-19 13:53:11 +0000",
       "clover_patch": "2025-05-19 13:53:38 +0000",
@@ -117,9 +120,11 @@
       "dune_beach": "2025-05-19 14:17:38 +0000",
       "volcano": "2025-05-18 20:06:39 +0000",
       "rocky_rainforest": "2025-05-18 20:09:05 +0000",
+      "pasture": "2025-05-19 15:49:45 +0000",
       "volcanic_plains": "2025-05-18 19:49:25 +0000",
       "lavender_field": "2025-05-19 14:17:42 +0000",
       "grassland": "2025-05-18 21:23:44 +0000",
+      "prairie": "2025-05-19 15:49:25 +0000",
       "glowing_grotto": "2025-05-19 15:35:02 +0000",
       "origin_valley": "2025-05-19 15:08:20 +0000",
       "rainforest": "2025-05-18 20:09:04 +0000"
@@ -2719,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-19 15:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-19 14:58:58 +0000"
@@ -2782,6 +2793,12 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
     "criteria": {
       "has_planks": "2025-05-19 15:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-19 15:46:45 +0000"
     },
     "done": true
   },
@@ -2878,6 +2895,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-19 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-19 15:46:45 +0000"
     },
     "done": true
   },
