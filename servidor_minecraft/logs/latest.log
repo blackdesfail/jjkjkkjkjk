@@ -4236,3 +4236,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 03:26:09.654] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
 [19May2025 03:37:08.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> hang
 [19May2025 03:44:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombie
+[19May2025 03:45:38.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
+[19May2025 03:46:11.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 03:46:11.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 03:46:28.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:51533] logged in with entity id 19988 at (-307.132162064164, 70.0, 88.66106669180995)
+[19May2025 03:46:28.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 03:46:29.004] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 03:46:50.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Take Aim]
+[19May2025 03:46:56.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Life turned out to be a comedy]
+[19May2025 03:48:16.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> no puendo ablar xd
+[19May2025 03:48:25.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ci
+[19May2025 03:48:54.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> raja una vaca
+[19May2025 03:49:16.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> rajala sin llegar a matarla
+[19May2025 03:49:26.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> con el cuchillo no ?=
+[19May2025 03:49:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> mod de mierda
+[19May2025 03:50:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> )
+[19May2025 03:50:25.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ?
+[19May2025 03:50:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> cuantos?
+[19May2025 03:51:02.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was killed by Creeper using magic
+[19May2025 03:51:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ami tampoco la verda
+[19May2025 03:51:54.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> asla pero con cuidado
+[19May2025 03:52:37.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xd
+[19May2025 03:52:41.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> me mori por una
+[19May2025 03:53:16.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> me paso
+[19May2025 03:53:51.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ring ring peta
+[19May2025 03:54:12.206] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 8 in "main" inventory handler
+[19May2025 03:54:24.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by Skeleton
+[19May2025 03:55:12.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch hit the ground too hard whilst trying to escape Bison
+[19May2025 03:55:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> jkjkjkjkjkjkjk
+[19May2025 03:56:01.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Bison
+[19May2025 03:57:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> no creo
+[19May2025 03:57:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> dale mejor mañana que ya tambien en un rato me voy
+[19May2025 03:58:08.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[19May2025 03:58:08.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 03:59:03.775] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26715, l='ServerLevel[madafaka]', x=4038.50, y=46.00, z=3483.50]
+[19May2025 04:07:26.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[19May2025 04:07:26.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game

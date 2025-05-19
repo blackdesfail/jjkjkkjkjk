@@ -1596,6 +1596,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-19 03:38:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-19 03:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-19 03:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-19 03:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-05-19 03:38:52 +0000"
@@ -1626,12 +1650,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-05-19 03:38:42 +0000"
-    },
-    "done": true
-  },
   "hangglider:recipes/tools/glider_wing": {
     "criteria": {
       "has_leather": "2025-05-19 03:38:52 +0000"
@@ -1641,12 +1659,6 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-19 03:38:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-19 03:38:42 +0000"
     },
     "done": true
   },
@@ -1662,15 +1674,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "comforts:sleeping_bag_light_gray": {
     "criteria": {
-      "has_beef": "2025-05-19 03:38:42 +0000"
+      "has_light_gray_wool": "2025-05-19 03:50:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_beef": "2025-05-19 03:38:42 +0000"
+      "has_dandelion": "2025-05-19 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/iron_nugget_from_smelting_machete": {
+    "criteria": {
+      "has_iron_machete": "2025-05-19 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-19 03:50:34 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/iron_nugget_from_blasting_machete": {
+    "criteria": {
+      "has_iron_machete": "2025-05-19 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-19 03:50:34 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-19 03:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-19 03:50:34 +0000"
     },
     "done": true
   },
