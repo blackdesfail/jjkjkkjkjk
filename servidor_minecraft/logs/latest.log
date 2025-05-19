@@ -4429,3 +4429,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 14:50:45.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/148528, l='ServerLevel[madafaka]', x=2165.50, y=55.00, z=3353.50]
 [19May2025 14:51:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
 [19May2025 14:51:15.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
+[19May2025 14:51:58.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
+[19May2025 14:52:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
+[19May2025 14:52:33.790] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 8 in "main" inventory handler
+[19May2025 14:52:49.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
+[19May2025 14:53:05.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
+[19May2025 14:55:09.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.2526795944504556
+[19May2025 14:55:09.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.5200704689450504
+[19May2025 14:55:09.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.7698366875442844
+[19May2025 14:55:09.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
+[19May2025 14:55:55.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/154594, l='ServerLevel[madafaka]', x=2273.19, y=62.50, z=3315.96] died, message: 'Fisherman was killed by Pillager using magic'
+[19May2025 14:59:33.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner

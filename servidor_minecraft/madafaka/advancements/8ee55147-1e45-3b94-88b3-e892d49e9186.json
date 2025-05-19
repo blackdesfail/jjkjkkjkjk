@@ -416,6 +416,7 @@
       "minecraft:skeleton": "2025-05-19 01:50:13 +0000",
       "minecraft:spider": "2025-05-18 23:19:09 +0000",
       "minecraft:creeper": "2025-05-18 23:51:58 +0000",
+      "minecraft:husk": "2025-05-19 14:51:54 +0000",
       "minecraft:cave_spider": "2025-05-19 01:03:44 +0000",
       "minecraft:stray": "2025-05-19 01:05:05 +0000",
       "minecraft:zombie": "2025-05-18 23:52:22 +0000",
@@ -3163,6 +3164,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-19 14:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-19 12:12:32 +0000"
@@ -3205,6 +3212,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-05-19 14:57:56 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/misc/iron_nugget_from_smelting_machete": {
     "criteria": {
       "has_iron_machete": "2025-05-19 12:21:50 +0000"
@@ -3223,9 +3236,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2025-05-19 14:57:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-05-19 14:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-19 12:09:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 14:56:57 +0000"
     },
     "done": true
   },
@@ -3253,6 +3284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-19 15:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-19 14:29:17 +0000"
@@ -3262,6 +3299,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-19 12:12:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 14:56:57 +0000"
     },
     "done": true
   },
@@ -3313,6 +3356,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-05-19 14:57:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-19 14:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 11:52:57 +0000"
@@ -3334,6 +3389,12 @@
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-05-19 11:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-19 15:01:02 +0000"
     },
     "done": true
   },
@@ -3367,9 +3428,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-05-19 15:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-05-19 12:09:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-05-19 14:57:56 +0000"
     },
     "done": true
   },
@@ -3397,6 +3470,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-19 14:57:56 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-05-19 13:44:46 +0000"
@@ -3406,6 +3485,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2025-05-19 12:58:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-19 14:57:56 +0000"
     },
     "done": true
   },
@@ -3424,6 +3509,30 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-05-19 11:52:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-19 15:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-19 15:01:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-05-19 14:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-19 15:01:02 +0000"
     },
     "done": true
   },
@@ -3451,6 +3560,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-05-19 15:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-19 15:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-19 11:52:57 +0000"
@@ -3460,6 +3581,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-05-19 12:04:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-05-19 14:46:44 +0000"
     },
     "done": true
   },
