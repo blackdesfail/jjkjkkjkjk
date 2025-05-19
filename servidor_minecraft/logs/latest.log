@@ -4335,3 +4335,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 12:51:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bluff
 [19May2025 12:51:50.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bluff
 [19May2025 12:52:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Diamonds!]
+[19May2025 12:58:49.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Stay dead]
+[19May2025 13:03:28.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Dread Hound
+[19May2025 13:06:56.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was killed by Drowned using magic
+[19May2025 13:07:57.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Ice Bucket Challenge]
+[19May2025 13:08:04.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.26890732476203993
+[19May2025 13:08:04.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.5984818023262051
+[19May2025 13:08:04.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.9281870518689175
+[19May2025 13:08:18.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.25915265768708196
+[19May2025 13:08:18.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.5259865086190985
+[19May2025 13:08:18.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.7847443862251566
+[19May2025 13:16:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [The Wind Darkening]
+[19May2025 13:17:53.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has completed the challenge [Champion Hunter]
+[19May2025 13:17:55.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Cave Centipede
