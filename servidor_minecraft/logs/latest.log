@@ -5059,3 +5059,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19May2025 15:27:35.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Spider
 [19May2025 15:28:22.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 1.315769779859238
 [19May2025 15:28:22.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 1.2998366329534292
+[19May2025 15:32:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Hunt and Gather]
