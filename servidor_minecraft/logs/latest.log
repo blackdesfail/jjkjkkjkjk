@@ -4380,3 +4380,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 14:07:02.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported KairosArch to 1950.500000, 57.000000, 3007.500000
 [19May2025 14:07:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported KairosArch to 1950.500000, 50.000000, 3007.500000
 [19May2025 14:09:20.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported KairosArch to 1946.500000, 62.000000, 2900.500000
+[19May2025 14:10:52.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Skeleton
+[19May2025 14:11:21.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Skeleton
+[19May2025 14:12:20.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[19May2025 14:12:20.513] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[19May2025 14:12:20.513] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[19May2025 14:12:20.513] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[19May2025 14:12:20.514] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[19May2025 14:12:20.560] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[19May2025 14:12:20.560] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
+[19May2025 14:13:18.168] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[19May2025 14:13:20.205] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[19May2025 14:13:21.300] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[19May2025 14:13:23.597] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[19May2025 14:14:53.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.27044629677811827
+[19May2025 14:14:53.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.5138479574306984
+[19May2025 14:14:53.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.7329094462147623
+[19May2025 14:14:53.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.9300647808977374
+[19May2025 14:19:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Voluntary Exile]
