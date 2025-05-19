@@ -1674,9 +1674,15 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_light_gray": {
+  "nethersdelight:recipes/misc/iron_nugget_from_smelting_machete": {
     "criteria": {
-      "has_light_gray_wool": "2025-05-19 03:50:34 +0000"
+      "has_iron_machete": "2025-05-19 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/iron_nugget_from_blasting_machete": {
+    "criteria": {
+      "has_iron_machete": "2025-05-19 03:49:54 +0000"
     },
     "done": true
   },
@@ -1686,21 +1692,15 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/misc/iron_nugget_from_smelting_machete": {
+  "comforts:sleeping_bag_light_gray": {
     "criteria": {
-      "has_iron_machete": "2025-05-19 03:49:54 +0000"
+      "has_light_gray_wool": "2025-05-19 03:50:34 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-05-19 03:50:34 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/iron_nugget_from_blasting_machete": {
-    "criteria": {
-      "has_iron_machete": "2025-05-19 03:49:54 +0000"
     },
     "done": true
   },
