@@ -8873,3 +8873,100 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 12:11:35.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
 [19May2025 12:16:35.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
 [19May2025 12:16:35.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[19May2025 12:21:01.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Deceived Hopes]
+[19May2025 12:21:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Best Friends Forever]
+[19May2025 12:21:35.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[19May2025 12:21:35.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[19May2025 12:23:11.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.28520033691847857
+[19May2025 12:23:11.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.7514237291711652
+[19May2025 12:23:11.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 1.236753354972734
+[19May2025 12:23:14.882] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[19May2025 12:23:14.883] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[19May2025 12:23:14.883] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[19May2025 12:23:14.883] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[19May2025 12:23:16.558] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[19May2025 12:23:16.559] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[19May2025 12:23:16.559] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[19May2025 12:23:16.559] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[19May2025 12:23:18.834] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[19May2025 12:23:18.835] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[19May2025 12:23:18.835] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[19May2025 12:23:18.835] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[19May2025 12:23:19.886] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[19May2025 12:23:19.887] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[19May2025 12:23:19.887] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[19May2025 12:23:19.887] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[19May2025 12:23:22.777] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[19May2025 12:23:22.777] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[19May2025 12:23:22.777] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[19May2025 12:23:22.777] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[19May2025 12:23:26.907] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[19May2025 12:23:26.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[19May2025 12:23:26.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[19May2025 12:23:26.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[19May2025 12:23:37.509] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[19May2025 12:23:37.509] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[19May2025 12:23:37.509] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[19May2025 12:23:37.509] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[19May2025 12:25:54.198] [Server thread/DEBUG] [Better Days/]: Sleep cycle complete on dimension: minecraft:overworld.
+[19May2025 12:26:35.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[19May2025 12:26:35.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[19May2025 12:27:09.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Hunt and Gather]
+[19May2025 12:27:16.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.28663517431732544
+[19May2025 12:27:16.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.7986173251906621
+[19May2025 12:27:16.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 1.3246492457160457
+[19May2025 12:27:16.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.5288947124813603
+[19May2025 12:27:16.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.5332985264731178
+[19May2025 12:27:16.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.5346003213794575
+[19May2025 12:27:16.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.5282523231148843
+[19May2025 12:27:16.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.5060194036477696
+[19May2025 12:27:16.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.47437022655412875
+[19May2025 12:27:16.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.4539279280966184
+[19May2025 12:27:16.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.4429896617675695
+[19May2025 12:27:16.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.44836690964348236
+[19May2025 12:27:16.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.4741390720164418
+[19May2025 12:27:16.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.5038604148926424
+[19May2025 12:27:16.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 1.0067485136819414
+[19May2025 12:27:17.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.458031849987492
+[19May2025 12:27:17.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.8209323538203535
+[19May2025 12:27:17.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.27805002631976095
+[19May2025 12:27:29.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-287, y=70, z=136} BlockPos{x=-287, y=70, z=137}
+[19May2025 12:30:33.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.4444170680649222
+[19May2025 12:30:33.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.9939091484420715
+[19May2025 12:30:33.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 1.4719451009564182
+[19May2025 12:31:35.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[19May2025 12:31:35.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[19May2025 12:36:35.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[19May2025 12:36:35.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[19May2025 12:36:54.749] [Server thread/DEBUG] [Better Days/]: Sleep cycle complete on dimension: minecraft:overworld.
+[19May2025 12:37:54.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.3812697692319489
+[19May2025 12:37:55.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.8568453901762041
+[19May2025 12:37:55.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 1.349831945065489
+[19May2025 12:38:15.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.49152375865651265
+[19May2025 12:38:15.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.9984975857528298
+[19May2025 12:39:41.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.33084830304960633
+[19May2025 12:39:42.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.7768024548922767
+[19May2025 12:39:42.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 1.2198239359368017
+[19May2025 12:39:50.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.45181642218904017
+[19May2025 12:39:50.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.9852085554211953
+[19May2025 12:39:50.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 1.5193640444113043
+[19May2025 12:39:50.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 2.0547844237407844
+[19May2025 12:41:35.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[19May2025 12:41:35.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[19May2025 12:44:27.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Called Your Bluff]
+[19May2025 12:45:33.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bluff
+[19May2025 12:45:56.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bluff
+[19May2025 12:46:35.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[19May2025 12:46:35.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[19May2025 12:46:48.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bluff
+[19May2025 12:47:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Amateur Archaeologist]
+[19May2025 12:47:28.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bluff
+[19May2025 12:47:49.898] [Server thread/DEBUG] [Better Days/]: Sleep cycle complete on dimension: minecraft:overworld.
+[19May2025 12:50:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bluff
+[19May2025 12:51:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bluff
+[19May2025 12:51:35.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[19May2025 12:51:35.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[19May2025 12:51:50.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bluff
+[19May2025 12:52:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Diamonds!]
+[19May2025 12:56:35.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[19May2025 12:56:35.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka

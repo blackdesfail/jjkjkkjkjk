@@ -237,6 +237,7 @@
       "redwood_forest": "2025-05-19 00:09:02 +0000",
       "seasonal_forest": "2025-05-19 00:38:33 +0000",
       "rocky_rainforest": "2025-05-18 23:25:42 +0000",
+      "pasture": "2025-05-19 12:19:21 +0000",
       "volcanic_plains": "2025-05-18 23:18:16 +0000",
       "lavender_field": "2025-05-18 23:57:59 +0000",
       "grassland": "2025-05-18 23:31:37 +0000",
@@ -623,6 +624,7 @@
       "cooked_beef": "2025-05-19 01:05:23 +0000",
       "porkchop": "2025-05-19 12:01:57 +0000",
       "potato": "2025-05-19 00:31:33 +0000",
+      "mutton": "2025-05-19 12:19:57 +0000",
       "bread": "2025-05-19 00:16:46 +0000",
       "golden_apple": "2025-05-19 03:43:31 +0000",
       "melon_slice": "2025-05-18 23:24:50 +0000",
@@ -3122,6 +3124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-05-19 12:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 11:52:57 +0000"
@@ -3131,6 +3139,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-05-19 11:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-19 12:49:03 +0000"
     },
     "done": true
   },
@@ -3167,6 +3181,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-05-19 11:52:57 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/iron_nugget_from_smelting_machete": {
+    "criteria": {
+      "has_iron_machete": "2025-05-19 12:21:50 +0000"
     },
     "done": true
   },
@@ -3242,6 +3262,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-19 12:21:20 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-05-19 12:44:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-05-19 11:52:45 +0000"
@@ -3263,6 +3295,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-05-19 12:09:47 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/iron_nugget_from_blasting_machete": {
+    "criteria": {
+      "has_iron_machete": "2025-05-19 12:21:50 +0000"
     },
     "done": true
   },
