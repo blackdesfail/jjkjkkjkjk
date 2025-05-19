@@ -5073,3 +5073,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19May2025 16:08:20.092] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
 [19May2025 16:13:15.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was blown up by Creeper
 [19May2025 16:17:16.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Fallen Chaos Knight
+[19May2025 16:30:11.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Dread Hound
