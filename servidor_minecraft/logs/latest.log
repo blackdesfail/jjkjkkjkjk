@@ -4203,3 +4203,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 03:10:28.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ckdesfail  3999 -42 3624<--[HERE]
 [19May2025 03:10:36.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported blackdesfail to 3999.500000, -42.000000, 3624.500000
 [19May2025 03:11:01.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Senior Summoner]
+[19May2025 03:17:36.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Nightmare Stalker
+[19May2025 03:17:46.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombie
+[19May2025 03:17:54.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Nightmare Stalker
+[19May2025 03:18:16.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail withered away whilst fighting Nightmare Stalker
+[19May2025 03:18:41.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail withered away whilst fighting Nightmare Stalker
+[19May2025 03:19:07.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Nightmare Stalker
+[19May2025 03:21:45.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:54777] logged in with entity id 8371 at (-258.30000001192093, 69.0, 157.252781189545)
+[19May2025 03:21:45.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 03:21:45.056] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 03:22:15.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 03:22:15.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 03:22:34.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:59971] logged in with entity id 8876 at (-258.30000001192093, 69.0, 157.252781189545)
+[19May2025 03:22:34.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 03:22:34.055] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 03:22:53.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Arachnophobe's Nightmare]
+[19May2025 03:23:04.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 03:23:04.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 03:23:27.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:47341] logged in with entity id 9352 at (-258.30000001192093, 69.0, 157.252781189545)
+[19May2025 03:23:27.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 03:23:27.604] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 03:23:57.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 03:23:57.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 03:24:42.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:37041] logged in with entity id 10106 at (-258.30000001192093, 69.0, 157.252781189545)
+[19May2025 03:24:42.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 03:24:42.597] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 03:24:57.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Zombie
+[19May2025 03:25:12.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 03:25:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 03:26:09.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:51803] logged in with entity id 11244 at (-258.30000001192093, 69.0, 157.252781189545)
+[19May2025 03:26:09.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 03:26:09.654] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
