@@ -4348,3 +4348,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 13:16:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [The Wind Darkening]
 [19May2025 13:17:53.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has completed the challenge [Champion Hunter]
 [19May2025 13:17:55.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Cave Centipede
+[19May2025 13:24:56.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> 4195.54 75.56 3350.56 26.82 89.70
+[19May2025 13:25:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> -297 71 160
+[19May2025 13:26:07.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> 4195 3350
