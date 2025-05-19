@@ -4180,3 +4180,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 02:59:37.615] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
 [19May2025 03:00:07.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
 [19May2025 03:00:07.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 03:04:59.138] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@f9fe4d0[id=<null>,name=KairosArch,properties={},legacy=false] (/127.69.186.130:40925): Took too long to log in
+[19May2025 03:04:59.139] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f9fe4d0[id=<null>,name=KairosArch,properties={},legacy=false] (/127.69.186.130:40925) lost connection: Took too long to log in
+[19May2025 03:04:59.184] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 03:05:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Deceived Hopes]
+[19May2025 03:05:29.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:55435] logged in with entity id 2145 at (-258.5006030464322, 69.0, 157.27436183569682)
+[19May2025 03:05:29.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 03:05:29.660] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 03:05:59.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 03:05:59.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 03:06:50.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:44789] logged in with entity id 2712 at (-258.30000001192093, 69.0, 157.252781189545)
+[19May2025 03:06:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 03:06:50.307] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 03:07:09.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> pto
+[19May2025 03:07:12.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> pto
+[19May2025 03:07:20.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 03:07:20.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 03:08:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Bone Imp
+[19May2025 03:10:08.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incomplete (expected 2 coordinates)
+[19May2025 03:10:08.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... 3999 -42 3624<--[HERE]
+[19May2025 03:10:28.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[19May2025 03:10:28.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ckdesfail  3999 -42 3624<--[HERE]
+[19May2025 03:10:36.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported blackdesfail to 3999.500000, -42.000000, 3624.500000
+[19May2025 03:11:01.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Senior Summoner]
