@@ -4234,3 +4234,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 03:26:09.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.69.186.130:51803] logged in with entity id 11244 at (-258.30000001192093, 69.0, 157.252781189545)
 [19May2025 03:26:09.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
 [19May2025 03:26:09.654] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 03:37:08.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> hang
+[19May2025 03:44:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombie

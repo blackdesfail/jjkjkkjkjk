@@ -413,7 +413,8 @@
       "minecraft:creeper": "2025-05-18 23:51:58 +0000",
       "minecraft:cave_spider": "2025-05-19 01:03:44 +0000",
       "minecraft:stray": "2025-05-19 01:05:05 +0000",
-      "minecraft:zombie": "2025-05-18 23:52:22 +0000"
+      "minecraft:zombie": "2025-05-18 23:52:22 +0000",
+      "minecraft:zombie_villager": "2025-05-19 03:42:05 +0000"
     },
     "done": false
   },
@@ -620,6 +621,7 @@
       "cooked_beef": "2025-05-19 01:05:23 +0000",
       "potato": "2025-05-19 00:31:33 +0000",
       "bread": "2025-05-19 00:16:46 +0000",
+      "golden_apple": "2025-05-19 03:43:31 +0000",
       "melon_slice": "2025-05-18 23:24:50 +0000",
       "golden_carrot": "2025-05-18 23:56:17 +0000",
       "carrot": "2025-05-19 00:30:08 +0000"
@@ -2937,6 +2939,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-19 03:42:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-19 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-19 03:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 03:36:24 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-05-19 03:22:53 +0000"
@@ -2949,9 +2975,57 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-19 03:34:31 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-05-19 03:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 03:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-19 03:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 03:36:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-19 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-19 03:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-19 03:42:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-19 03:36:39 +0000"
     },
     "done": true
   },
