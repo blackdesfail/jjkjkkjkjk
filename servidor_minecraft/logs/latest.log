@@ -4398,3 +4398,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 14:14:53.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.7329094462147623
 [19May2025 14:14:53.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.9300647808977374
 [19May2025 14:19:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Voluntary Exile]
+[19May2025 14:22:26.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[19May2025 14:22:26.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... a health Vida<--[HERE]
+[19May2025 14:22:38.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown scoreboard objective 'a'
+[19May2025 14:22:44.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[19May2025 14:22:44.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... a health Vida<--[HERE]
+[19May2025 14:23:16.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown scoreboard objective 'a'
+[19May2025 14:23:27.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[19May2025 14:23:27.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... a health Vida<--[HERE]
+[19May2025 14:23:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Created new objective [a]
+[19May2025 14:23:32.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch drowned
+[19May2025 14:23:36.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[19May2025 14:23:36.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... a health Vida<--[HERE]
+[19May2025 14:23:44.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set display slot list to show objective a
+[19May2025 14:25:56.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Glutton Fish
+[19May2025 14:27:00.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Corpse Fish
+[19May2025 14:27:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was impaled by Drowned
+[19May2025 14:31:00.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [We Just Want our Hat Back]
+[19May2025 14:31:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Smitty WerbenJagerManJensen]
+[19May2025 14:32:01.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [A Bone to Pick]
+[19May2025 14:32:37.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was killed by Pillager using magic
+[19May2025 14:33:42.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was killed by Pillager using magic
+[19May2025 14:34:23.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was impaled by Drowned
+[19May2025 14:35:09.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was killed by Pillager using magic
+[19May2025 14:38:13.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Cover Me with Diamonds]
+[19May2025 14:46:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Junior Summoner]
+[19May2025 14:46:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Dark Metallurgy]
+[19May2025 14:49:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
+[19May2025 14:50:40.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
+[19May2025 14:50:45.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/148528, l='ServerLevel[madafaka]', x=2165.50, y=55.00, z=3353.50]
+[19May2025 14:51:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
+[19May2025 14:51:15.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was shot by Illusioner
