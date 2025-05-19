@@ -94,8 +94,10 @@
       "minecraft:cold_ocean": "2025-05-19 00:28:00 +0000",
       "minecraft:forest": "2025-05-18 23:40:28 +0000",
       "minecraft:deep_cold_ocean": "2025-05-19 00:27:47 +0000",
+      "minecraft:desert": "2025-05-19 01:21:08 +0000",
       "minecraft:jungle": "2025-05-18 23:17:46 +0000",
       "minecraft:ocean": "2025-05-18 23:39:23 +0000",
+      "minecraft:warm_ocean": "2025-05-19 01:21:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-18 23:38:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-18 23:40:11 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-19 00:39:24 +0000",
@@ -222,6 +224,7 @@
     "criteria": {
       "woodland": "2025-05-18 23:27:34 +0000",
       "shrubland": "2025-05-19 00:42:01 +0000",
+      "rocky_shrubland": "2025-05-19 01:08:42 +0000",
       "scrubland": "2025-05-18 23:49:50 +0000",
       "highland": "2025-05-19 00:38:51 +0000",
       "clover_patch": "2025-05-18 23:30:18 +0000",
@@ -405,6 +408,8 @@
     "criteria": {
       "minecraft:spider": "2025-05-18 23:19:09 +0000",
       "minecraft:creeper": "2025-05-18 23:51:58 +0000",
+      "minecraft:cave_spider": "2025-05-19 01:03:44 +0000",
+      "minecraft:stray": "2025-05-19 01:05:05 +0000",
       "minecraft:zombie": "2025-05-18 23:52:22 +0000"
     },
     "done": false
@@ -609,6 +614,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-19 01:05:23 +0000",
       "potato": "2025-05-19 00:31:33 +0000",
       "bread": "2025-05-19 00:16:46 +0000",
       "melon_slice": "2025-05-18 23:24:50 +0000",
@@ -2411,6 +2417,60 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-19 01:04:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-05-19 01:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-19 01:05:03 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-19 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-19 01:13:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-19 01:13:22 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_0": "2025-05-19 00:59:34 +0000",
@@ -2424,15 +2484,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-19 01:13:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-05-19 00:59:52 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-19 01:13:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-05-19 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-19 01:13:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-19 01:13:22 +0000"
     },
     "done": true
   },
