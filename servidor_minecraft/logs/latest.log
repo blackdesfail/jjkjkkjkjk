@@ -4351,3 +4351,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 13:24:56.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> 4195.54 75.56 3350.56 26.82 89.70
 [19May2025 13:25:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> -297 71 160
 [19May2025 13:26:07.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> 4195 3350
+[19May2025 13:30:53.606] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[19May2025 13:30:53.607] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[19May2025 13:30:53.607] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[19May2025 13:30:53.607] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[19May2025 13:30:53.621] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[19May2025 13:30:53.622] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[19May2025 13:30:53.622] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[19May2025 13:30:53.623] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[19May2025 13:33:14.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Good Demoman]
+[19May2025 13:38:55.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Crops of the Wild]
+[19May2025 13:42:47.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 13:42:47.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 13:43:26.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.88.128.135:41007] logged in with entity id 97801 at (510.16239235715625, 62.07326432466506, 1349.6564729963586)
+[19May2025 13:43:26.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 13:43:26.908] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 13:44:21.959] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[19May2025 13:44:21.959] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[19May2025 13:44:21.960] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[19May2025 13:44:21.960] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[19May2025 13:44:21.960] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[19May2025 13:44:21.961] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[19May2025 13:44:46.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [What Happens in Las Vegas...]
+[19May2025 14:05:26.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Smoke On The Water]
+[19May2025 14:05:27.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Skeleton
+[19May2025 14:06:55.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported KairosArch to 1950.500000, 57.000000, 3007.500000
+[19May2025 14:06:58.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Skeleton
+[19May2025 14:07:02.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported KairosArch to 1950.500000, 57.000000, 3007.500000
+[19May2025 14:07:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported KairosArch to 1950.500000, 50.000000, 3007.500000
+[19May2025 14:09:20.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported KairosArch to 1946.500000, 62.000000, 2900.500000
