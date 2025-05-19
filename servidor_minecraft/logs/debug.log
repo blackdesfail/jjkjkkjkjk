@@ -10305,3 +10305,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 00:48:08.901] [Worker-Main-95/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
 [19May2025 00:48:08.901] [Worker-Main-95/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
 [19May2025 00:48:08.901] [Worker-Main-95/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[19May2025 00:48:52.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19May2025 00:48:52.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19May2025 00:48:52.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Server closed
+[19May2025 00:48:52.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[19May2025 00:48:52.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19May2025 00:48:53.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:overworld
+[19May2025 00:48:56.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/deeperdarker:otherside
+[19May2025 00:48:56.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:the_end
+[19May2025 00:48:56.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/graveyard:past
+[19May2025 00:48:56.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/slugterra:the_slugterra
+[19May2025 00:48:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:the_nether
+[19May2025 00:48:56.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[19May2025 00:48:56.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[19May2025 00:48:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (madafaka): All chunks are saved
+[19May2025 00:48:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[19May2025 00:48:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19May2025 00:48:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[19May2025 00:48:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_slugterra): All chunks are saved
+[19May2025 00:48:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19May2025 00:48:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19May2025 00:48:57.151] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[19May2025 00:48:57.152] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
